@@ -1,2 +1,6 @@
-# personalBrand
-Stuff 
+# Colors
+000000
+EC4067
+6602C3
+EF5D60
+E09F7D
